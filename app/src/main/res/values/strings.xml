@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Objetivo 09</string>
+    <string name="correo">Correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="o_ingresa_con">o ingresa con</string>
+    <string name="nombreusuario">NombreUsuario</string>
+    <string name="posts">Posts</string>
+    <string name="bio">biografia</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="repetir_contrase_a">Repetir Contraseña</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="o_registrate_con">o registrate con</string>
+    <string name="subir_publicacion">Subir publicacion</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="subir_publicacion_upper">SUBIR PUBLICACION</string>
+    <string name="title">title</string>
+    <string name="message">message</string>
+    <string name="like_number">0</string>
+    <string name="dislike_number">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="finance">Finance</string>
+    <string name="monto">Monto</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
